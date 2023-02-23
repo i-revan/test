@@ -9,6 +9,7 @@
             Console.WriteLine(x*y);
             Console.WriteLine(Math.Pow(y,x));
             Console.WriteLine(!true);
+            Console.WriteLine();
         }
     }
 }
